@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <domain-config>
+        <domain name="shared_pref" requireUserConfirmation="false">
+            <!--
+               Sample Domain.
+            -->
+        </domain>
+        <domain name="file">
+            <!--
+               Sample Domain.
+            -->
+        </domain>
+        <domain name="database">
+            <!--
+               Sample Domain.
+            -->
+        </domain>
+        <domain name="cache">
+            <!--
+               Sample Domain.
+            -->
+        </domain>
+        <domain name="external" requireUserConfirmation="false">
+            <!--
+               Sample Domain.
+            -->
+        </domain>
+    </domain-config>
+</data-extraction-rules>
